@@ -40,8 +40,6 @@ Project
         ├── 202208-citibike-tripdata.csv
         └── 202209-citibike-tripdata.csv
 
-
-
 ```
 
 ## Installation
