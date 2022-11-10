@@ -15,7 +15,7 @@ This report aims to help our shareholders to uncover two phenomena and make some
 There are 4 csv files records citybike renting data from 06.22 to 09.22. The data sets had been  transfromed and load into one csv file (CityBike-tripdata-0622-0922.csv) by using <s>CityBike.ipynb</s>. As the data size is too large. So please use the LINK <code>https://drive.google.com/drive/folders/1vA58GviA-OZAeJTvbioiRiS8CuHLHZUY?usp=sharing</code> to look into the data and the tableau file.  
 
 ### Report
-<code>Citi Bike Analysis Report.pdf</code>will cover all what I find from the data set. There are two dashboards presenting two phenomena I uncover respectively and two city official maps(start station and end station). Each item comes with analysis.  
+<code>Citi Bike Analysis Report.pdf</code>will cover all what I find from the data set. There are two dashboards presenting two phenomena respectively and two city official maps(start station and end station). Each item comes with analysis.  
     
 ### Summary:
 
